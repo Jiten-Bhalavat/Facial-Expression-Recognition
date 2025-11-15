@@ -83,7 +83,7 @@ data.csv
 
 # Generated images/videos (except your samples)
 *_drawn.*
-!Jiten-Bhalavat_drawn.png
+
 
 # Logs
 *.log
